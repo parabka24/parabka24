@@ -55,6 +55,6 @@
 
 ###
 
-<p align="left">I am always eager to collaborate and explore new opportunities. Reach out to me via email or connect with me on LinkedIn. Let's create something amazing together!</p>
+<p align="left">I am always eager to collaborate and explore new opportunities. Feel free to reach out to me via <a href="mailto:parabka2@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/komal-parab-94704a27a/">LinkedIn</a> Let's create something amazing together!</p>
 
 ###
