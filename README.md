@@ -1,57 +1,28 @@
+<h1 align="center">Hi 👋, I'm Komal Parab</h1>
+<h3 align="center">I hold a Diploma in Computer Engineering and have a strong passion for UI/UX design. I am proficient in Figma and Adobe XD. Additionally, I have expertise in programming languages including HTML, CSS, JavaScript, PHP, and Python. Committed to continuous learning, I am always enhancing my knowledge and skillsets.</h3>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=parabka24.parabka24&"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parabka24&label=Profile%20views&color=0e75b6&style=flat" alt="parabka24" /> </p>
 
-###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parabka24" alt="parabka24" /></a> </p>
 
-<h1 align="center">Hello World! I'm Komal Parab.👋</h1>
+- 🌱 I’m currently learning **Backend development**
 
-###
+- 👨‍💻 All of my projects are available at [https://github.com/parabka24?tab=repositories](https://github.com/parabka24?tab=repositories)
 
-<h3 align="left">👩‍💻  About Me....</h3>
+- 💬 Ask me about **UI/UX design**
 
-###
+- 📫 How to reach me **parabka24@gmail.com**
 
-<p align="left">I hold a Diploma in Computer Engineering and have a strong passion for UI/UX design. I am proficient in Figma and Adobe XD, and currently expanding my skills in Adobe Illustrator and Photoshop. Additionally, I have expertise in programming languages including HTML, CSS, JavaScript, PHP, and Python. Committed to continuous learning, I am always enhancing my knowledge and skillsets.</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/komal-parab-94704a27a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/komal-parab-94704a27a/" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<h3 align="left">🛠 Language and tools</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parabka24&show_icons=true&locale=en&layout=compact" alt="parabka24" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parabka24&show_icons=true&locale=en" alt="parabka24" /></p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=parabka24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<h3 align="left">Let's Get in Touch!!!</h3>
-
-###
-
-<p align="left">I am always eager to collaborate and explore new opportunities. Feel free to reach out to me via <a href="mailto:parabka2@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/komal-parab-94704a27a/">LinkedIn</a> Let's create something amazing together!</p>
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parabka24&" alt="parabka24" /></p>
