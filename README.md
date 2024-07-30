@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/parabka24?tab=repositories](https://github.com/parabka24?tab=repositories)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/parabka24?tab=repositories)
 
-- 💬 Ask me about **UI/UX design**
+- 💬 Ask me about **UI/UX designing**
 
 - 📫 How to reach me **parabka24@gmail.com**
 
