@@ -21,5 +21,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parabka24&" alt="parabka24" /></p>
 
 <h2 align="left">Get in Touch</h2>
-<p align="left">I'm always open to collaboration and new opportunities. Feel free to reach out to me via <a href="mailto:parabka24@gmail.com">Email</a> or connect with me on <a href="https://www.linkedin.com/in/komal-parab-94704a27a/">LinkedIn</a>.</p>
-<p align="left">Let's build something awesome together! 🚀</p>
+<p align="left">I’m excited to collaborate and explore new opportunities. Reach out to me via <a href="mailto:parabka24@gmail.com">Email</a> or connect with me on <a href="https://www.linkedin.com/in/komal-parab-94704a27a/">LinkedIn</a>.</p>
+<p align="left">Let's build something incredible together! 🚀</p>
